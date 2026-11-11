@@ -1,0 +1,1 @@
+raw = input("Raw string: ")
